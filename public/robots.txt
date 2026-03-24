@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://free-regex-tester.codama.dev/sitemap.xml
